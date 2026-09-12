@@ -1,0 +1,33 @@
+/* Amiri */
+@font-face{font-family:'Amiri';font-style:normal;font-weight:400;font-display:swap;
+  src:url('amiri-arabic-400-normal.woff2') format('woff2');unicode-range:U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF;}
+@font-face{font-family:'Amiri';font-style:normal;font-weight:700;font-display:swap;
+  src:url('amiri-arabic-700-normal.woff2') format('woff2');unicode-range:U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF;}
+@font-face{font-family:'Amiri';font-style:normal;font-weight:400;font-display:swap;
+  src:url('amiri-latin-400-normal.woff2') format('woff2');unicode-range:U+0000-00FF;}
+@font-face{font-family:'Amiri';font-style:normal;font-weight:700;font-display:swap;
+  src:url('amiri-latin-700-normal.woff2') format('woff2');unicode-range:U+0000-00FF;}
+
+/* Cairo */
+@font-face{font-family:'Cairo';font-style:normal;font-weight:400;font-display:swap;
+  src:url('cairo-arabic-400-normal.woff2') format('woff2');unicode-range:U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF;}
+@font-face{font-family:'Cairo';font-style:normal;font-weight:500;font-display:swap;
+  src:url('cairo-arabic-500-normal.woff2') format('woff2');unicode-range:U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF;}
+@font-face{font-family:'Cairo';font-style:normal;font-weight:600;font-display:swap;
+  src:url('cairo-arabic-600-normal.woff2') format('woff2');unicode-range:U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF;}
+@font-face{font-family:'Cairo';font-style:normal;font-weight:700;font-display:swap;
+  src:url('cairo-arabic-700-normal.woff2') format('woff2');unicode-range:U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF;}
+@font-face{font-family:'Cairo';font-style:normal;font-weight:400;font-display:swap;
+  src:url('cairo-latin-400-normal.woff2') format('woff2');unicode-range:U+0000-00FF;}
+@font-face{font-family:'Cairo';font-style:normal;font-weight:600;font-display:swap;
+  src:url('cairo-latin-600-normal.woff2') format('woff2');unicode-range:U+0000-00FF;}
+
+/* Tajawal */
+@font-face{font-family:'Tajawal';font-style:normal;font-weight:300;font-display:swap;
+  src:url('tajawal-arabic-300-normal.woff2') format('woff2');unicode-range:U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF;}
+@font-face{font-family:'Tajawal';font-style:normal;font-weight:400;font-display:swap;
+  src:url('tajawal-arabic-400-normal.woff2') format('woff2');unicode-range:U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF;}
+@font-face{font-family:'Tajawal';font-style:normal;font-weight:500;font-display:swap;
+  src:url('tajawal-arabic-500-normal.woff2') format('woff2');unicode-range:U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF;}
+@font-face{font-family:'Tajawal';font-style:normal;font-weight:400;font-display:swap;
+  src:url('tajawal-latin-400-normal.woff2') format('woff2');unicode-range:U+0000-00FF;}
